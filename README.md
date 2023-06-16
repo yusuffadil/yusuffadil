@@ -1,8 +1,8 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-- 🔭 I’m currently working on Proacc as Frontend developer using React.
-- 🌱 I’m currently learning Full Stack Web development | Mobile Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on Optik Melawai as Web developer.
+- 🌱 I’m currently learning Full Stack Web development && Mobile Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 📫 How to reach me:
 
