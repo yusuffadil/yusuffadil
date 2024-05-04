@@ -1,9 +1,6 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-- 🔭 I’m currently working on Optik Melawai as Software developer.
-- 🌱 I’m currently learning Full Stack Web development & Mobile Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gitlab.png" alt="gitlab logo" width="24">](https://gitlab.com/yfadil)  |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="gitlab logo" width="24">](https://gitlab.com/yusuffadil) 
 |---|---|
 
